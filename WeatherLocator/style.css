@@ -1,0 +1,49 @@
+body {
+    background: #DCE35B;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #FFFFFF;
+}
+
+p {
+    margin: 0;
+}
+
+.padding-top {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.loader {
+    position: absolute;
+    top :0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.hide {
+    display: none;
+}
+
+.inline-block {
+    display: inline-block;
+}
+.icon {
+    font-size: 10em;
+    padding: 50px 0;
+}
+.big-text {
+    font-size: 2em;
+}
+.capitalization {
+    text-transform: capitalize;
+}
+
+.switch label input[type=checkbox] + .lever {
+    transform: scale(1.25);
+}
+
+label {
+    font-size: 1.25em;
+}
