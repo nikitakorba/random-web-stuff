@@ -1,0 +1,30 @@
+body {
+    background: #00695c;
+}
+div.input-field > input.validate {
+    font-size: 28px;
+}
+
+div.input-field > label {
+    font-size: 20px;
+}
+
+.fixed-height {
+    height: 50%;
+}
+
+.all-height {
+    height: 100%;
+}
+
+i.material-icons.prefix {
+    font-size: 3rem;
+}
+
+.title-link {
+    color: #e57373 ;
+}
+
+a {
+    color: #42a5f5;
+}
